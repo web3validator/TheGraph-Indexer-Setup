@@ -102,14 +102,17 @@ STAKING_WALLET_ADDRESS=0xAdDreSs
 GEO_COORDINATES='69.420 69.420'
 INDEXER_AGENT_OFFCHAIN_SUBGRAPHS=""
 
-```
-
 
 #Optional env vars depending on which services you use:
 
 ###Indexer agent GUI:
 #AGENT_GUI_HOST=agent.sld.tld
 #NEXTAUTH_SECRET=$(openssl rand -base64 32)
+
+```
+
+
+
 
 It should looks like :
 
