@@ -115,7 +115,9 @@ It should looks like :
 
 <img width="882" alt="image" src="https://user-images.githubusercontent.com/59205554/216146684-17e6532c-a2b5-4213-9546-3b7f3512e238.png">
 **Required env vars:**
+
 ```bash
+
 - `EMAIL` - only used as contact to create SSL certificates. Usually it doesn't receive any emails but is required by the certificate issuer.
 - `INDEX_HOST` - your indexer public endpoint. The gateway will be sending queries to this endpoint.
 - `GRAFANA_HOST` - your Grafana dashboard for indexer stack monitoring.
@@ -133,6 +135,7 @@ It should looks like :
 **Optional env vars:**
 - `AGENT_GUI_HOST` - your Agent GUI endpoint for controlling the Agent and allocations remotely
 - `NEXTAUTH_SECRET` - used by the Agent GUI to salt your password
+
 ```
 
 **Note:** If you want to use any of the optional env vars, you need to copy the line that you want to enable above the last line, and uncomment it.
