@@ -50,7 +50,8 @@ This can easily be done via the Web UI, by going to the [Graph Explorer](https:/
 1. Login with Metamask on the Wallet that holds your GRT
 
 2. Go to your Profile, then switch to the "Indexing" Tab and hit "Stake"
-![](https://i.ibb.co/4KxB08t/image.png)
+
+![](<img width="1413" alt="image" src="https://user-images.githubusercontent.com/59205554/216149101-3f4b2537-6420-4a5f-a07e-a5fc77cfe813.png">
 
 3. Stake the amount of GRT that you desire, then you're all done!
 
