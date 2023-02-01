@@ -51,7 +51,7 @@ This can easily be done via the Web UI, by going to the [Graph Explorer](https:/
 
 2. Go to your Profile, then switch to the "Indexing" Tab and hit "Stake"
 
-![](<img width="1413" alt="image" src="https://user-images.githubusercontent.com/59205554/216149101-3f4b2537-6420-4a5f-a07e-a5fc77cfe813.png">
+<img width="1413" alt="image" src="https://user-images.githubusercontent.com/59205554/216149101-3f4b2537-6420-4a5f-a07e-a5fc77cfe813.png">
 
 3. Stake the amount of GRT that you desire, then you're all done!
 
@@ -66,7 +66,8 @@ Okay, assuming that you followed the instructions and you have your new Operator
 
 1. Login with Metamask on the wallet that you used to stake your GRT
 2. Click the Profile dropdown button, and go to "Settings", and then to the "Operators" tab
-![](https://i.ibb.co/4PYjJj0/image.png)
+<img width="1406" alt="image" src="https://user-images.githubusercontent.com/59205554/216149964-e73d4831-0871-46d7-8601-fcda614eedd5.png">
+
 3. Click the Plus (+) button and add your operator public address there
 4. Submit the transaction, then you're done
 
