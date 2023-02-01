@@ -64,12 +64,13 @@ For this, follow the [instructions here](https://github.com/StakeSquid/graphprot
 
 Okay, assuming that you followed the instructions and you have your new Operator wallet at hand, lets go and link it up with the wallet that you used to stake your GRT.
 
-1. Login with Metamask on the wallet that you used to stake your GRT
-2. Click the Profile dropdown button, and go to "Settings", and then to the "Operators" tab
+ Login with Metamask on the wallet that you used to stake your GRT
+4. Click the Profile dropdown button
+5. Go to "Settings", and then to the "Operators" tab
 <img width="1406" alt="image" src="https://user-images.githubusercontent.com/59205554/216149964-e73d4831-0871-46d7-8601-fcda614eedd5.png">
 
-3. Click the Plus (+) button and add your operator public address there
-4. Submit the transaction, then you're done
+6. Click the Plus (+) button and add your operator public address there
+7. Submit the transaction, then you're done
 
 
 #  Getting started 
